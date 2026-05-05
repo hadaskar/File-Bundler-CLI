@@ -1,0 +1,7 @@
+bundle
+-o
+hadas.cs
+-l
+all
+-n
+-s type
